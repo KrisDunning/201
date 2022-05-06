@@ -4,4 +4,4 @@
 
 *****  
 
-<Button onClick= "window.destination.href='https://KrisDunning.github.io/201/';">Reading 01- Intro to HTML and JavaScript</button>  
+<Button onClick= "window.location.href='https://KrisDunning.github.io/201/';">Reading 01- Intro to HTML and JavaScript</button>  
