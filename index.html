@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Class 01 Lab-01</title>
+<style>
+    body
+    {
+      background-color: burlywood;
+      color: darkgreen;
+    }
+    h1
+    {
+      background-color: rgb(242, 234, 6);
+      color: purple;
+      text-align: center;
+    }
+    main
+    {
+      margin:auto;
+      width: 50%;
+      margin-top: 50px;
+    }
+    p
+    {
+      min-height:50px;
+      border: 3px solid black;
+      line-height: 90%;
+      text-align: center;
+      font-size:2em;
+      padding-top:30px;
+      padding-bottom: 30px;
+      margin:10px;
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Class 01 Lab-01</h1>
+  </header>
+  
+  <main>
+
+    <p id="p1" style="color:indianred; background-color: lightslategray;text-decoration: underline wavy white auto;"> </p>
+    <p id="p2" style="color: orangered; background-color: turquoise;text-decoration: overline solid pink auto;"> </p>
+    <p id="p3" style="color:darkorange; background-color: midnightblue;" > </p>
+    <p id="p4" style="color:aqua; background-color:darkslategrey;"> </p>   
+  </main>
+  
+  <script>
+      
+    let userResponseOne=prompt("What is your name?: ");
+    alert("Hello "+userResponseOne+".");
+    console.log("Whats is your name?: "+userResponseOne);
+
+    let userResponseTwo=prompt("Where are you from?: ");
+    alert("Oh, "+userResponseOne+" so you are from "+userResponseTwo+" ,huh?");
+    console.log("Where are you from?: "+userResponseTwo);
+
+    let userResponseThree=prompt("What's your favorite food?: ");
+    alert("Wow "+userResponseOne+" from "+userResponseTwo+", that makes me hungry for "+userResponseThree+" since you mention it.");
+    console.log("What's your favorite food?: "+userResponseThree);
+
+    let userResponseFour=prompt("What's your favorite spot to relax?: ");
+    alert("Cool! "+userResponseOne+" from "+userResponseTwo+". I bet its relaxing to eat "+userResponseThree+" while at "+userResponseFour+" too.");
+    console.log("What's your favorite spot to relax?: "+userResponseFour)
+    
+    
+    document.getElementById("p1").innerHTML="Question 1: What is your name?: "+userResponseOne;
+    document.getElementById("p2").innerHTML="Question 2: Where are you from?: "+userResponseTwo;
+    document.getElementById("p3").innerHTML="Question 3: What's your favorite food?: "+userResponseThree;
+    document.getElementById("p4").innerHTML="Question 4: What's your favorite spot to relax?: "+userResponseFour;
+  </script>
+</body>
+</html>
