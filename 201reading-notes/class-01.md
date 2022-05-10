@@ -83,6 +83,12 @@ In computer language we can model the world around us using Objects(things) and 
 
 Web browsers are programs built using objects. A window object (browser) can deliver the document object(web page) to the user. This is the origin of the ***Document Object Model(DOM)***.  
 
+## Things I want to know more about  
+
+- Event handling in JS scripts.
+- DOM manipulation
+- CRUD operations using JS and either JSON or a DB
+
 *****
 
 [Return to Course 201 Notes](https://KrisDunning.github.io/201/)
