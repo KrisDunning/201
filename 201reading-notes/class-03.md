@@ -78,4 +78,11 @@ update (i++;)
 break - causes termination of loop and to move to code next after the loop statement.  
 continue - stop current iteration and check the condition again.  
 
+## Things I want to know more about
+
+usages in a professional environment for switch v.s. if else chains.  
+
+and how parent/child CSS works specifically with center alignment of block, inline-block
+
+
 *****
