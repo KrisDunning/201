@@ -69,7 +69,10 @@ Rule number one. Functions only do something when called!
 Parameters and arguments:  
 There is a subtle difference though they are often used interchangably. Parameters are the variables that the function receives and are declared in the function declaration. Arguments are the variables that are sent to the function during the function call.  
 
+## Things I want to know more about
 
+ i heard floating is generally frowned upon except for nav bars so maybe practice checking out absolute and relative positioning.  
+ functions as expressions and IIFES immediately executed functions both need to be researched. 
 
 *****
 
