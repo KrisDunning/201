@@ -12,4 +12,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-04.html';">Reading 04 - HTML Links, JS Functions, and Intro to CSS Layout</button>  
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-05.html';">Reading 05 - HTML Images, CSS Color & Text</button>  
+
 *****
