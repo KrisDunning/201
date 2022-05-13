@@ -1,6 +1,6 @@
 [Return to Course 201 Notes](https://KrisDunning.github.io/201/)
 
-# Reading 04- HTML Links, JS Functions, and Intro to CSS Layout
+# Reading 05 - HTML Images, CSS Color & Text
 
 *****
 
