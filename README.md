@@ -14,4 +14,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-05.html';">Reading 05 - HTML Images, CSS Color & Text</button>  
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-06.html';">Reading 06 - JS Object Literals, Dom Manipulation</button>  
+
 *****
