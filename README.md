@@ -16,4 +16,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-06.html';">Reading 06 - JS Object Literals, Dom Manipulation</button>  
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-07.html';">Reading 07 - HTML Tables and Object Oriented Programming</button>  
+
 *****
