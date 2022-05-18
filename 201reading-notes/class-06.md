@@ -107,7 +107,11 @@ Accessing and replacing a text node with `nodeValue`
 >itemText=itemText,replace('oldtext', 'newtext');
 >item.firstChild.nodeValue=itemText;
 
+## Things I want to know more about
 
+industry standard for best use case of object literals
+
+is getElementById the standard window into DOM?
 
 *****
 [Return to Course 201 Notes](https://KrisDunning.github.io/201/)

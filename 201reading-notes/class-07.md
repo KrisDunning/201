@@ -75,7 +75,9 @@ Document Object Model- The DOM creates a model of the current web page. The topm
 Global JavaScript objects- The global objects do not form a single model. They are a group of individual objects that relate to different parts of the JavaScript language. Such as string, number, boolean, date, math and regex.  
 
 
+## Things I want to know more about
 
+factory format is good. industry uses? is class format better/clearer?
 
 
 *****
