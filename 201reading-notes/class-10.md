@@ -1,6 +1,6 @@
 [Return to Course 201 Notes](https://KrisDunning.github.io/201/)
 
-# Reading 07 - HTML Tables , Object Oriented Programming
+# Reading 10 - Errors and Debugging
 
 *****
 
