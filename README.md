@@ -26,4 +26,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-10.html';">Reading 10 - JS Debugging</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-11.html';">Reading 11- Audio, Video, Images</button>
+
 *****
