@@ -30,4 +30,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-12.html';">Reading 12- Chart.js and Canvas</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-13.html';">Reading 13- Local Storage</button>
+
 *****
