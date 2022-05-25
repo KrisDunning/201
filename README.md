@@ -28,4 +28,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-11.html';">Reading 11- Audio, Video, Images</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/201/201reading-notes/class-12.html';">Reading 12- Chart.js and Canvas</button>
+
 *****
