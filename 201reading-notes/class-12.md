@@ -1,4 +1,4 @@
-Return to Course 201 Notes](https://KrisDunning.github.io/201/)
+[Return to Course 201 Notes](https://KrisDunning.github.io/201/)
 
 # Reading 12- Chart.js and Canvas
 
