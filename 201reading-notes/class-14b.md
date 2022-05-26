@@ -1,6 +1,6 @@
 [Return to Course 201 Notes](https://KrisDunning.github.io/201/)
 
-# Reading 14 - What Google Learned About Teams
+# Reading 14b - What Google Learned About Teams
 
 *****
 
